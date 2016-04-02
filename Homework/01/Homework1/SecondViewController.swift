@@ -23,7 +23,6 @@ class SecondViewController: UIViewController {
                 counter++
                 
                 
-                
             }
             sum.text = String(sumOutput)
         }
