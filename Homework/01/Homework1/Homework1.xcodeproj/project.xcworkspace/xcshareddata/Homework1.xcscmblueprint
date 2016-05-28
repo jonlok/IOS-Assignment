@@ -1,19 +1,21 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "CFAE493B432375CCB092B5B2B121F957EB0AB4B0",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "CD5313285C85155E5AF9982EE5F9455930300FDE",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "CD5313285C85155E5AF9982EE5F9455930300FDE" : 0,
     "220E1542E4A6CD7C7E1F98266D7B226F9D65E8AC" : 0,
-    "CFAE493B432375CCB092B5B2B121F957EB0AB4B0" : 0,
     "8A88DD5E25C2F64FDBAE722C33D1356973C5185D" : 0,
+    "CFAE493B432375CCB092B5B2B121F957EB0AB4B0" : 0,
     "BFFA205709CCF1CD65D5AAF973FFF1BC2EC75E8F" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "68C8E25D-BFD4-411D-B8D6-F864C60C7C57",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "CD5313285C85155E5AF9982EE5F9455930300FDE" : "IOS-Assignment\/",
     "220E1542E4A6CD7C7E1F98266D7B226F9D65E8AC" : "MOB-HK-1%20(course%20materials)",
-    "CFAE493B432375CCB092B5B2B121F957EB0AB4B0" : "IOS-Assignments\/",
     "8A88DD5E25C2F64FDBAE722C33D1356973C5185D" : "IOS-HK-3%20(course%20materials)\/",
+    "CFAE493B432375CCB092B5B2B121F957EB0AB4B0" : "IOS-Assignments\/",
     "BFFA205709CCF1CD65D5AAF973FFF1BC2EC75E8F" : "MOB-HK-2%20(course%20materials)\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "Homework1",
@@ -34,6 +36,11 @@
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:ga-students\/MOB-HK-2.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BFFA205709CCF1CD65D5AAF973FFF1BC2EC75E8F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jonlok\/IOS-Assignment.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CD5313285C85155E5AF9982EE5F9455930300FDE"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jonlok\/IOS-Assignments.git",
